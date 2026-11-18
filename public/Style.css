@@ -1,0 +1,49 @@
+body {
+    background-color: #f4f6f9;
+    color: #212529;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+main h1 {
+    font-weight: 700;
+}
+
+.form-container {
+    max-width: 650px;
+    background-color: white;
+    padding: 32px;
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.07);
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.card-body {
+    padding: 24px;
+}
+
+.btn {
+    border-radius: 7px;
+}
+
+.form-control,
+.form-select {
+    padding: 10px 12px;
+}
+
+.table {
+    background-color: white;
+}
+
+.text-danger {
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
